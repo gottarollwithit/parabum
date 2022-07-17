@@ -1,2 +1,2 @@
-# parabum
-Parabum - Track Your Money - Split Your Bills
+# splitzz
+Splitzz - Track Your Money - Split Your Bills
